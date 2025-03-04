@@ -22,11 +22,3 @@ A **Simple Interest Calculator** that computes the interest based on the given *
 2. Enter the **Annual Rate of Interest (R%)**.  
 3. Enter the **Time Period (T) in Years**.  
 4. Click on **"Calculate"** to get the Simple Interest and Total Amount.  
-
-## 🖥️ Demo  
-🔗 [Live Demo](#) (Replace with your actual link if deployed)  
-
-## 📷 Screenshot  
-![Calculator Screenshot](#) (Replace `#` with the image link)  
-
-## 📂 Project Structure  
